@@ -9,3 +9,6 @@ Projects
 ## Prospective plans to do for the next 
 Short vision for next several years
 
+### Contacts info
+How others should reach me in some cases
+
